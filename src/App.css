@@ -1,0 +1,37 @@
+:root{
+  --comic-font-en: 'Comic Sans MS', Helvetica, Arial, sans-serif;
+  --pusheen-brown: rgb(76, 45, 21);
+}
+
+.logo{
+  color: var(--pusheen-brown);
+  font-family: var(--comic-font-en);
+}
+
+.nav-bar{
+  color: var(--pusheen-brown) !important;
+  font-family: var(--comic-font-en);
+  margin-top: 1em;
+}
+
+.hello-world{
+  font-family: Courier New, Courier, monospace;
+  font-size: 2.5em;
+  color: rgba(30, 30, 30, 0.7);
+  text-align: center;
+  margin-top: 3em;
+}
+.welcome{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1.5em;
+  text-align: center;
+}
+
+.about{
+  text-align: center;
+  margin-top: 3em;
+}
+
+.footer{
+  text-align: center;
+}
